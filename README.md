@@ -4,6 +4,8 @@ This repository contains a collection of quick reference notes for various techn
 
 ## Contents
 
+- [Linux Commands](Linux%20Commands.md) - A comprehensive list of essential Linux commands for file management, process control, networking, system monitoring, and more.
+  
 - [Git Cheatsheet](Git%20Cheatsheet.md) - A collection of essential Git commands covering setup, repository operations, branching, stashing, and more.
 
 - [ASP.NET Basics](ASP.NET%20Basics.md) - A comprehensive guide to ASP.NET covering key concepts from introduction to security best practices.
