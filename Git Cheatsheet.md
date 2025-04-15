@@ -55,6 +55,9 @@ git checkout <branch_name>
 # Create and switch to a new branch
 git checkout -b <branch_name>
 
+# Create and switch to a new branch
+git switch -c <branch_name>
+
 # Merge a branch into the current branch
 git merge <branch_name>
 
