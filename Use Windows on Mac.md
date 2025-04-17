@@ -227,4 +227,29 @@ A complete guide on when to use each and how to set them up for development, dat
 
 ---
 
-Let me know if you want this saved as a downloadable `.md` file or need a version with images or links!
+## Steps to Download
+1. **Download UTM**:
+   - Go to: [https://mac.getutm.app/](https://mac.getutm.app/)
+   - Install UTM on your Mac.
+2. **Download Windows ISO**:
+   - Download windows iso from AppStore:  
+     [Windows 11 ISO](https://apps.apple.com/in/app/crystalfetch-iso-downloader/id6454431289?mt=12)
+3. **Open Crystal Fetch App**:
+   - Once you open the app you can see option to choose version of windows select the one you required windows 11 or 10
+   - Select the architecture of your mac Apple Silicon or Intel (you can see that in the top left corner - click on apple logo->click on about this mac->look for chip)
+   - Then click on download it will be a large file so wait for it to download.
+4. **Open UTM app**
+   - Click on Create a New Virtual Machine
+   - Select virtualize as we have downloaded windows 11 arm arch and next
+   - Next select windows and next
+   - Make sure Install windows 10 or higher check box is selected
+   - In the Boot Iso image browse the windows iso file which we downloaded recently with the help of crystal fetch then click continue
+   - Now select the RAM according to your specs and click continue
+   - Allocate the required storage and then click continue
+   - Now select the shared folder in which we would have the windows file home path
+   - Now in the summary page check all info and click save
+   - The virtual machine of windows 11 should be ready now!
+5. **Start Windows 11 Virtual Machine**
+   - Install the windows 11 as you nomrally do
+   - If you don't have valid windows license key then select don't have product key option and continue
+   - Keep everything as default and click continue
